@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <kohime.label>오니 코히메</kohime.label>
+  <kohime.labelPlural>오니 코히메들</kohime.labelPlural>
+  <kohime.lifeStages.0.label>오니 코히메</kohime.lifeStages.0.label>
+  <kohime.lifeStages.0.labelPlural>오니 코히메</kohime.lifeStages.0.labelPlural>
+  <kohime.lifeStages.0.labelMale>코히메</kohime.lifeStages.0.labelMale>
+  <kohime.lifeStages.0.labelMalePlural>수컷 오니 코히메들</kohime.lifeStages.0.labelMalePlural>
+  <kohime.lifeStages.0.labelFemale>코히메</kohime.lifeStages.0.labelFemale>
+  <kohime.lifeStages.0.labelFemalePlural>암컷 오니 코히메들</kohime.lifeStages.0.labelFemalePlural>
+  <kohime.lifeStages.1.label>오니 코히메</kohime.lifeStages.1.label>
+  <kohime.lifeStages.1.labelPlural>오니 코히메</kohime.lifeStages.1.labelPlural>
+  <kohime.lifeStages.1.labelMale>kohime</kohime.lifeStages.1.labelMale>
+  <kohime.lifeStages.1.labelMalePlural>수컷 오니 코히메들</kohime.lifeStages.1.labelMalePlural>
+  <kohime.lifeStages.1.labelFemale>코히메</kohime.lifeStages.1.labelFemale>
+  <kohime.lifeStages.1.labelFemalePlural>암컷 오니 코히메들</kohime.lifeStages.1.labelFemalePlural>
+  <kohime.lifeStages.2.label>오니 코히메</kohime.lifeStages.2.label>
+  <kohime.lifeStages.2.labelPlural>오니 코히메</kohime.lifeStages.2.labelPlural>
+  <kohime.lifeStages.2.labelMale>코히메</kohime.lifeStages.2.labelMale>
+  <kohime.lifeStages.2.labelMalePlural>수컷 오니 코히메들</kohime.lifeStages.2.labelMalePlural>
+  <kohime.lifeStages.2.labelFemale>코히메</kohime.lifeStages.2.labelFemale>
+  <kohime.lifeStages.2.labelFemalePlural>암컷 오니 코히메들</kohime.lifeStages.2.labelFemalePlural>
+  <kohime.labelMale>코히메</kohime.labelMale>
+  <kohime.labelMalePlural>코히메들</kohime.labelMalePlural>
+  <kohime.labelFemale>코히메</kohime.labelFemale>
+  <kohime.labelFemalePlural>코히메들</kohime.labelFemalePlural>
+
+
+</LanguageData>
